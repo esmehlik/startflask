@@ -33,9 +33,6 @@ def onas():
     return render_template('onas.html')
 
 
-@app.route('/abc/')
-def onas():
-    return render_template('abc.html')
 
 
 ############################################################################
